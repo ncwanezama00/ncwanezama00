@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ncwanezama00
+- 👋 Hi, I’m Ngeyane Zama
 - 👀 I’m interested in web developmement and spatial data analysis
 - 🌱 I’m currently learning honors in  Applied GIS & Remote sensing
 - 💞️ I’m looking to collaborate on web development and application also Spatial Data Analyst
