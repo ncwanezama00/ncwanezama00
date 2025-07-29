@@ -5,7 +5,7 @@
 - 📫 zamangeyane@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Cetified OCA
+- Oracle Certified Associate
 - Bachelors Degree in Computer Science || GIS & Remote sensing
 <!---
 ncwanezama00/ncwanezama00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
